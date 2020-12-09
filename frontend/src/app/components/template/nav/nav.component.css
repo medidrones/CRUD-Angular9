@@ -1,0 +1,21 @@
+.sidenav {
+    background: rgb(167, 207, 223);
+    background: -moz-linear-gradient(45deg, rgba(167, 207, 223, 1) 0%, rgba(35, 83, 138, 1) 100%);
+    background: -webkit-linear-gradient(45deg, rgba(167, 207, 223, 1) 0%, rgba(35, 83, 138, 1) 100%);
+    background: linear-gradient(45deg, rgba(167, 207, 223, 1) 0%, rgba(35, 83, 138, 1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a7cfdf', endColorstr='#23538a', GradientType=1);
+    width: 200px;
+}
+
+.sidenav a {
+    color: #FFF;
+}
+
+.sidenav i {
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #FFF;
+}
